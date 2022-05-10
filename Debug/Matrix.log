@@ -1,0 +1,24 @@
+﻿  Matrix.cpp
+  Source.cpp
+E:\IT\Step\Home\C++\OOP\27.06.2021\Matrix\Source.cpp(9,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\IT\Step\Home\C++\OOP\27.06.2021\Matrix\Matrix.h(102,1): warning C4267: =: преобразование из "size_t" в "SHORT"; возможна потеря данных
+E:\IT\Step\Home\C++\OOP\27.06.2021\Matrix\Matrix.h(98): message : во время компиляции функции-члена класс шаблон "std::istream &operator >>(std::istream &,Matrix<int,void> &)"
+E:\IT\Step\Home\C++\OOP\27.06.2021\Matrix\Source.cpp(14): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::istream &operator >>(std::istream &,Matrix<int,void> &)"
+E:\IT\Step\Home\C++\OOP\27.06.2021\Matrix\Source.cpp(11): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Matrix<int,void>"
+E:\IT\Step\Home\C++\OOP\27.06.2021\Matrix\Matrix.h(105,1): warning C4267: =: преобразование из "size_t" в "SHORT"; возможна потеря данных
+E:\IT\Step\Home\C++\OOP\27.06.2021\Matrix\Matrix.h(72,24): warning C4018: <: несоответствие типов со знаком и без знака
+E:\IT\Step\Home\C++\OOP\27.06.2021\Matrix\Matrix.h(69): message : во время компиляции функции-члена класс шаблон "int Matrix<int,void>::MaxLenElemArr2D(type **,int,int)"
+          with
+          [
+              type=int
+          ]
+E:\IT\Step\Home\C++\OOP\27.06.2021\Matrix\Matrix.h(86): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Matrix<int,void>::MaxLenElemArr2D(type **,int,int)"
+          with
+          [
+              type=int
+          ]
+E:\IT\Step\Home\C++\OOP\27.06.2021\Matrix\Matrix.h(74,25): warning C4018: <: несоответствие типов со знаком и без знака
+E:\IT\Step\Home\C++\OOP\27.06.2021\Matrix\Matrix.h(76,43): warning C4018: >: несоответствие типов со знаком и без знака
+  Создание кода...
+E:\IT\Step\Home\C++\OOP\27.06.2021\Matrix\Matrix.h(193): warning C4715: operator*: значение возвращается не при всех путях выполнения
+  Matrix.vcxproj -> E:\IT\Step\Home\C++\OOP\27.06.2021\Matrix\Debug\Matrix.exe
